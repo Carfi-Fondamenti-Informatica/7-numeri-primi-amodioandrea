@@ -2,7 +2,7 @@
 #include "lib.h"
 using namespace std;
 
-int main(){
+int main() {
   int a=0, b=0;
   cin >> a;
   bool ris= numeriprimi(a,b);
